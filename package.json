@@ -1,0 +1,17 @@
+{
+  "name": "metalsmith-relative-path-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^2.0.0",
+    "lodash": "^2.4.1",
+    "metalsmith": "^0.10.0",
+    "metalsmith-assets": "0.0.1",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-templates": "^0.5.2"
+  }
+}
